@@ -40,5 +40,4 @@ TLK is also compatible with Realistic Atmospheres.  When installed together, TLK
 
 ## Licensing
 
-This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
-CC BY-NC-ND
+This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)

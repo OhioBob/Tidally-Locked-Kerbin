@@ -1,0 +1,21 @@
+{
+  "NAME": "Tidally-Locked-Kerbin",
+  "URL": "https://raw.githubusercontent.com/OhioBob/Tidally-Locked-Kerbin/master/GameData/TidallyLockedKerbin/TidallyLockedKerbin.version",  
+  "DOWNLOAD": "https://github.com/OhioBob/Tidally-Locked-Kerbin/releases",
+  "CHANGE_LOG_URL": "https://github.com/OhioBob/Tidally-Locked-Kerbin/blob/master/README.md",
+  "GITHUB": {
+    "USERNAME": "OhioBob",
+    "REPOSITORY": "Tidally-Locked-Kerbin"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 1
+  }
+}
