@@ -20,9 +20,9 @@ While Kerbin is brand new, most other things about the stock system remains the 
   * Synchronous orbits are no longer possible around Kerbin and Eve.
   * While the atmospheric pressures on Kerbin and Eve are unchanged, temperatures have been reworked consistent with being tidally locked.
   * Kerbin retains all of its launch sites and anomalies, located at the usual coordinates.
-  * Tidally locked planets are oriented so that their prime meridians (0o longitude) face the Sun.
+  * Tidally locked planets are oriented so that their prime meridians (0° longitude) face the Sun.
   * This orientation places KSC conveniently in daylight near the western terminator, making eastward launches over sunlit terrain.
-  * Unfortunately the Woomerang and Desert sites are located on the dark side of the planet. To compensate, an addition daylight space center is provided with Kerbal Konstructs.
+  * Unfortunately the Woomerang and Desert sites are located on the dark side of the planet.
   * Only 13% of Kerbin’s surface is water, compared to 52% in stock.
   * Kerbin contains 20 biomes, 9 more than stock Kerbin.
 
@@ -31,6 +31,8 @@ While Kerbin is brand new, most other things about the stock system remains the 
 Tidally Locked Kerbin (TLK) is fully compatible with Scatterer, Environmental Visual Enhancements (EVE), and Stock Visual Enhancements (SVE).  TLK provides its own configs and textures that overrides all others, while scatterer, EVE and SVE will apply their visuals to the remaining bodies.
 
 TLK is also compatible with Realistic Atmospheres.  When installed together, TLK provides new atmospheres for Kerbin and Eve, while Realistic Atmospheres provides atmospheres for the remaining bodies.
+
+By installing Kerbal Konstructs, TLK adds a new daylight space center on the eastern side of the planet. This is to make up for the Woomerang and the Desert sites being located in permanent darkness. Design of the space center is courtesy of JadeOfMaar.
 
 ## Requirements
 
