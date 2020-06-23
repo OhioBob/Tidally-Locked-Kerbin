@@ -38,9 +38,9 @@ While Kerbin is brand new, most other things about the stock system remain the s
 
 ## Provided Compatibility
 
-Tidally Locked Kerbin (TLK) is fully compatible with Scatterer, Environmental Visual Enhancements (EVE), and Stock Visual Enhancements (SVE).  TLK provides its own configs and textures that overrides all others, while scatterer, EVE and SVE will apply their visuals to the remaining bodies.
+Tidally Locked Kerbin (TLK) is fully compatible with [Scatterer](https://spacedock.info/mod/141/scatterer), [Environmental Visual Enhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases) (EVE), and [Stock Visual Enhancements](https://github.com/Galileo88/StockVisualEnhancements/releases) (SVE). TLK provides its own configs and textures that overrides all others, while scatterer, EVE and SVE will apply their visuals to the remaining bodies.
 
-TLK is also compatible with Realistic Atmospheres.  When installed together, TLK provides new atmospheres for Kerbin and Eve, while Realistic Atmospheres provides atmospheres for the remaining bodies.
+TLK is also compatible with [Realistic Atmospheres](https://github.com/OhioBob/Realistic-Atmospheres/releases). When installed together, TLK provides new atmospheres for Kerbin and Eve, while Realistic Atmospheres provides atmospheres for the remaining bodies.
 
 ## Licensing
 
