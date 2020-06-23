@@ -34,9 +34,9 @@ TLK is also compatible with Realistic Atmospheres.  When installed together, TLK
 
 ## Requirements
 
-[Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-1.8.1-1) for 1.8.1, or [Kopernicus Continued](https://github.com/prestja/Kopernicus/releases/) for 1.9.1
-ModularFlightIntegrator
-Module Manager
+  * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-1.8.1-1) for 1.8.1, or [Kopernicus Continued](https://github.com/prestja/Kopernicus/releases/) for 1.9.1
+  * ModularFlightIntegrator
+  * Module Manager
 
 ## Licensing
 
