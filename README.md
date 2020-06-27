@@ -42,7 +42,7 @@ Tidally Locked Kerbin (TLK) is fully compatible with [Scatterer](https://spacedo
 
 TLK is also compatible with [Realistic Atmospheres](https://github.com/OhioBob/Realistic-Atmospheres/releases). When installed together, TLK provides new atmospheres for Kerbin and Eve, while Realistic Atmospheres provides atmospheres for the remaining bodies.
 
-TLK works seamlessly alongside [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod/releases/) and [Minor Planets Expansion](https://spacedock.info/mod/2383/Minor%20Planets%20Expansion). Planetary orbits are resized to maintain their proportional relationship with the stock planets.
+TLK works seamlessly alongside [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod/releases/) and [Minor Planets Expansion](https://spacedock.info/mod/2383/Minor%20Planets%20Expansion). Planetary orbits are rescaled to maintain their proportional relationship with the stock planets.
 
 ## Licensing
 
