@@ -2,10 +2,12 @@
 
 ## 1.0.1
 :bookmark: *KSP 1.8.1  or newer*
-* Added OPM compatibility
-* Added missing parameter to Atmosphere.cfg
-* Revised folder structure
+* Added support for Outer Planets Mod.
+* Added support for Minor Planets Expansion.
+* Added missing parameter to atmosphere configs.
+* Added needs to Woomerang map decal.
+* Revised folder structure.
   
 ## 1.0.0
 :bookmark: *KSP 1.8.1  or newer*
-* Initial release
+* Initial release.
