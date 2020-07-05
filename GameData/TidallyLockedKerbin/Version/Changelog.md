@@ -1,5 +1,10 @@
 # Tidally Locked Kerbin
 
+## 1.0.2
+:bookmark: *KSP 1.8.1  or newer*
+* Fixed Breaking Ground surface features, should now appear on Kerbin.
+* Fixed PQS color map, removed blue seafloor.
+
 ## 1.0.1
 :bookmark: *KSP 1.8.1  or newer*
 * Added support for Outer Planets Mod.
