@@ -11,7 +11,7 @@ While Kerbin is brand new, most other things about the stock system remain the s
   * All planetary orbits have been reduce to about 37.5% of their stock values so that each planet continues to receive the same amount of sunlight. Kerbin now lies at a distance of about 5.1 million kilometers from the Sun.
   * Along with Kerbin, Moho and Eve are also now tidally locked. Planets beyond Kerbin are far enough from the Sun to have escaped the fate of tidal locking.
   * Because planets lie closer to the Sun, they have smaller spheres-of-influence. Kerbin's SOI is now about 37,000 kilometers.
-  * Minmus' orbit has been reduced in size to keep it inside Kerbin's SOI. This is the only change to any of the moons.
+  * Orbits of Gilly and Minmus have been reduced in size to keep them inside their planets' SOI. This is the only change to any of the moons.
   * Kerbin retains its 6-hour day, though a "day" no longer has the same meaning as it does for us. Perhaps it is defined by biological rhythms rather than astronomy.
   * Planets now orbit faster with shorter orbital periods. Kerbin's year is now 120 days in length.
   * Travel times between planets are much shorter, about 28% as long, saving on consumables if life support mods are used.

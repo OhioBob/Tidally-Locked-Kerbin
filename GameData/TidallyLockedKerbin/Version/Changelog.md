@@ -1,5 +1,9 @@
 # Tidally Locked Kerbin
 
+## 1.0.3
+:bookmark: *KSP 1.8.1  or newer*
+* Reduced orbit of Gilly to keep it inside Eve's SOI.
+
 ## 1.0.2
 :bookmark: *KSP 1.8.1  or newer*
 * Fixed Breaking Ground surface features, should now appear on Kerbin.
