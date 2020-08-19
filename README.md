@@ -28,7 +28,7 @@ While Kerbin is brand new, most other things about the stock system remain the s
 
 ## Requirements
 
-  * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-1.8.1-1) for 1.8.1, or [Kopernicus Continued](https://github.com/prestja/Kopernicus/releases/) for 1.9.1
+  * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
   * ModularFlightIntegrator
   * Module Manager
 
